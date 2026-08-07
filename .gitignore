@@ -1,0 +1,9 @@
+# Dependencies
+node_modules/
+
+# Environment variables (security)
+.env
+
+# Production builds (optional)
+frontend/build/
+frontend/dist/
